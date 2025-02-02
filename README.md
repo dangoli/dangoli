@@ -1,10 +1,9 @@
-## Hi there 👋
+# 关于我🙌
+- 🔭 数学学院统计学在读，掌握的知识仅有学院开设的基础课：C++, 数据结构, MATLAB, R语言入门以及机器学习入门
+- 🌱 目前在学习python与SPSS
+- 📫 联络邮箱: downfallice@gmail.com
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+
 
 <!--
 **dangoli/dangoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
